@@ -50,10 +50,14 @@ const useStyles = makeStyles((theme) => ({
     btmbtngreen: {
         color: "#fff",
         background: "#2fc452",
+        fontWeight: "bold",
+        borderRadius: "10px 0px 0px 10px",
     },
     btmbtnred: {
         color: "#fff",
         background: "#e85e5e",
+        fontWeight: "bold",
+        borderRadius: "0px 10px 10px 0px",
     }
 }))
 
